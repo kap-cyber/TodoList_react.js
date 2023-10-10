@@ -1,0 +1,74 @@
+.container{
+margin-left: 430px;
+margin-top: 50px;
+background-color:#8ba189;
+width: 35%;
+border-radius: 10px;
+padding-left: 50px;
+box-shadow: 2px 2px 2px 2px rgb(80, 76, 76);
+}
+.todo{
+    font-size: 50px;
+    font-weight:bold;
+    font-style: italic;
+}
+body{
+    background-color: grey;
+}
+.btn{
+    background-color:blueviolet;
+    width: 25%;
+    margin-left:10px;
+    color:white;
+    border-radius: 8px;
+}
+.btn:hover{
+    background-color: green;
+}
+.btn1{
+    background-color:blueviolet;
+    color:white;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    
+    
+}
+.btn1:hover{
+    background-color: red;
+    color: white;
+}
+.inp{
+    padding: 5px;
+    border-radius:5px;
+    width:60%;
+    border:none;
+    
+}
+.inp1[type=text] select{
+    
+}
+.pa{
+    font-size: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+.btn2{
+    margin-left: 150px;
+    margin-bottom: 20px;
+    width:40%;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+}
+.btn2:hover{
+    background-color: darkgreen;
+}
+.pa1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
